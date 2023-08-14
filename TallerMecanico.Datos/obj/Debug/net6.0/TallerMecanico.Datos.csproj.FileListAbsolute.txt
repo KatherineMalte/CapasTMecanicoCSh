@@ -1,0 +1,16 @@
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\bin\Debug\net6.0\TallerMecanico.Datos.deps.json
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\bin\Debug\net6.0\TallerMecanico.Datos.dll
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\bin\Debug\net6.0\TallerMecanico.Datos.pdb
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\bin\Debug\net6.0\TallerMecanico.Entidades.dll
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\bin\Debug\net6.0\TallerMecanico.Entidades.pdb
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.csproj.AssemblyReference.cache
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.csproj.ResolveComReference.cache
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.AssemblyInfoInputs.cache
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.AssemblyInfo.cs
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.csproj.CoreCompileInputs.cache
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.csproj.CopyComplete
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.dll
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\refint\TallerMecanico.Datos.dll
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\TallerMecanico.Datos.pdb
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Datos\obj\Debug\net6.0\ref\TallerMecanico.Datos.dll

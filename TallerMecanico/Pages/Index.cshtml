@@ -1,0 +1,29 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<div class="row justify-content-center">
+
+    <div class="col-10">
+
+        <div class="alert alert-info" role="alert">
+            Crud Empleados
+        </div>
+        <button type="button" class="btn  btn-outline-success boton-nuevo-empleado">Crear Empleado</button>
+
+        <table class="table table-striped" id="tablaEmpleados">
+            <thead>
+                <tr>
+                    <th>Categoria</th>
+                    <th>Nombre</th>
+                    <th>Observacion</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+
+    </div>
+</div>

@@ -1,0 +1,12 @@
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\bin\Debug\net6.0\TallerMecanico.Entidades.deps.json
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\bin\Debug\net6.0\TallerMecanico.Entidades.dll
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\bin\Debug\net6.0\TallerMecanico.Entidades.pdb
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\TallerMecanico.Entidades.csproj.AssemblyReference.cache
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\TallerMecanico.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\TallerMecanico.Entidades.AssemblyInfoInputs.cache
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\TallerMecanico.Entidades.AssemblyInfo.cs
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\TallerMecanico.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\TallerMecanico.Entidades.dll
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\refint\TallerMecanico.Entidades.dll
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\TallerMecanico.Entidades.pdb
+C:\Users\sugey\OneDrive\Documentos\curso_cshart\capas_mecanicos\TallerMecanico\TallerMecanico.Entidades\obj\Debug\net6.0\ref\TallerMecanico.Entidades.dll
